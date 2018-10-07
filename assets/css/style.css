@@ -1,6 +1,8 @@
 /* CSS is somewhat messy due to trial and error process. May include a bit of extraneous code,
 but it works. Need to clean up for better readability next time. */
 
+/* Box model may need adjustment? Slightly too much space between heading and top of content box? */
+
 html,
 body {
     margin: 0px;
