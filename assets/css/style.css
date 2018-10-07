@@ -53,7 +53,7 @@ nav {
     font-size: 18px;
 }
 
-#map:hover {
+.map:hover {
     color: #3D9994;
 }
 
@@ -96,7 +96,7 @@ h1 {
     margin-bottom: 20px;
 }
 
-.map {
+.links {
     display: inline;
 }
 
